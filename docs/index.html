@@ -13,11 +13,17 @@
       rel="stylesheet"
       href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css"
     />
+    <style>
+      :root {
+        --content-max-width: 55em;
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
+        name: "Integration Manager",
         coverpage: "coverpage.md",
         homepage: "Introduction.md",
         auto2top: true,
