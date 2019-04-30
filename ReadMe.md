@@ -1,1 +1,1 @@
-This is a repo for hosting integration manager documentation
+This is a repo for hosting Integration Manager API tutorial documentation.
